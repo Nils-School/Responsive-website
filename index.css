@@ -1,0 +1,289 @@
+body {
+  background-color: rgb(218, 218, 218);
+}
+/* gelebalk */
+.achtergrondwit {
+  background-color: white;
+  margin: 10px;
+  height: 100%;
+  position: sticky;
+}
+#geeldropdownmenu {
+  display: none;
+  background-color: rgb(241, 191, 52);
+  margin-top: 3em;
+  height: 10em;
+  width: 100%;
+  position: absolute;
+  left: 0;
+}
+#grijsdropdownmenu {
+  display: none;
+  background-color: white;
+  margin-top: 3em;
+  height: 10em;
+  width: 96.2%;
+  position: absolute;
+  left: 1;
+}
+.geeldropdowntext {
+  font-size: 20px;
+}
+.vergrootheadmenu {
+  display: none;
+}
+.vergtootmenu {
+  display: none;
+}
+.headmenu {
+  width: 100%;
+  height: 4em;
+  background-color: rgb(241, 191, 52);
+  position: sticky;
+  top: 0;
+}
+.headbarsmenu {
+  color: white;
+  padding: 0.1em;
+  width: 1.8em;
+  margin-left: 1em;
+  padding-top: 1em;
+}
+
+/* wittebalk */
+#menu {
+  background-color: white;
+  height: 4em;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-image: url(logo.png);
+  background-position: 8em 1px;
+}
+
+#grijshamburger {
+  display: inline-block;
+  margin-left: 1em;
+  padding-top: 1em;
+  color: #686868;
+  width: 100%;
+}
+
+.foto {
+  width: 100%;
+  box-sizing: border-box;
+}
+/* proefles */
+.proefles {
+  background-color: white;
+  width: 100%;
+  /* height: 10em; */
+}
+.locatie {
+  background-color: white;
+}
+.iconeen {
+  color: #686868;
+  padding-top: 2em;
+  padding-left: 2em;
+  margin-bottom: 1em;
+}
+.icontwee {
+  color: #686868;
+  padding-left: 2em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+.icondrie {
+  color: #686868;
+  padding-left: 2em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+.rijlessen {
+  background-color: white;
+}
+.alletext {
+  background-color: white;
+  height: 70em;
+}
+.video {
+  background-color: white;
+}
+.title1 {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  margin-left: 1em;
+  font-size: 20px;
+}
+.title2 {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  margin-left: 1em;
+  font-size: 20px;
+}
+.title3 {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  margin-left: 1em;
+  font-size: 20px;
+}
+.lijn1 {
+  border: solid black 1px;
+  width: 90%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+}
+.lijn2 {
+  border: solid black 1px;
+  width: 90%;
+  margin-left: 5%;
+}
+.lijn3 {
+  border: solid black 1px;
+  width: 90%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+}
+.text1 {
+  background-color: white;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 5%;
+}
+.text2 {
+  background-color: white;
+  margin-top: 1em;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 1em;
+}
+.text3 {
+  background-color: white;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 20%;
+}
+.textblok {
+  padding: 3%;
+}
+.geelblok1 {
+  text-align: center;
+  width: 80%;
+  height: 25%;
+  margin-left: 10%;
+  background-color: rgb(241, 191, 52);
+}
+
+.video {
+  background-color: white;
+}
+.video iframe {
+  width: 100%;
+  height: 30em;
+}
+@media only screen and (min-width: 900px) {
+  body {
+    background-color: rgb(218, 218, 218);
+  }
+  .headmenu {
+    width: 100%;
+    height: 2em;
+    background-color: rgb(241, 191, 52);
+    position: sticky !important;
+    top: 0;
+  }
+
+  .headbarsmenu {
+    display: none;
+  }
+  #menu {
+    height: 8em !important;
+    background-image: url(logo.png);
+    background-position: 10% 10px;
+    background-size: 12em;
+  }
+  #grijshamburger {
+    display: none;
+  }
+  .logo {
+    margin-left: 5em;
+  }
+  .vergrootheadmenu {
+    display: unset;
+    display: inline-block;
+  }
+  .iconmenu1 {
+    margin-left: 22em;
+  }
+  .iconmenu2 {
+    margin-left: 3em;
+  }
+  .iconmenu3 {
+    margin-left: 3em;
+  }
+  .iconmenu4 {
+    margin-left: 3em;
+  }
+  .facebook {
+    margin-left: 6em;
+  }
+  .textmenu {
+    font-family: 'Open Sans', sans-serif;
+    color: #686868;
+  }
+  /* .locatie,
+  .lijn1,
+  .lijn2,
+  .lijn3 {
+    background-color: white;
+  } */
+  .vergtootmenu {
+    display: unset;
+    color: black;
+  }
+  .proefles {
+    width: 20em;
+    display: inline-block;
+  }
+  .locatie {
+    width: 20em;
+    display: inline-block;
+  }
+  .rijlessen {
+    width: 20em;
+    display: inline-block;
+    background-color: white;
+  }
+  .alletext {
+    background-color: white;
+    display: inline-block;
+    height: 25em;
+    width: 100%;
+  }
+  .proefles,
+  .locatie,
+  .rijlessen {
+    vertical-align: top;
+    width: 33%;
+  }
+  .text {
+    margin-left: 30em;
+    padding-top: 5%;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+  }
+
+  .motorrijbewijs {
+    margin-left: 1em;
+  }
+  .theorieles {
+    margin-left: 1em;
+  }
+  .opfris {
+    margin-left: 1em;
+  }
+  .contact {
+    margin-left: 1em;
+  }
+}

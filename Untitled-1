@@ -1,0 +1,53 @@
+<div class="proefles">
+        <div class="icon">
+          <i class="fas fa-car-side fa-2x"><span class="title1">Proefles</span></i>
+        </div>
+
+<div class="locatie">
+        <div class="icon2">
+          <i class="fas fa-map fa-2x"><span class="title2">Locatie</span></i>
+        </div>
+<div class="whatsapp"
+    <div class"iconmenu2">
+        <i class="fab fa-whatsapp"><span class="textmenu">(06)--- --- ---</i>
+        </div>
+
+        <i class="fab fa-whatsapp"></i>
+
+<div class="clock">
+    <div class=iconmenu3>
+        <i class="far fa-clock"><span class=textmenu>Ma-Zo: 8:00-22:00</i>
+        </div>
+
+<span class="dashboard">
+    <span class=iconmenu4>
+        <i class="fas fa-tachometer-alt"><span class=textmenu>Dashboard</i>
+        </span>
+
+         <span class="telefoon">
+            <span class="iconmenu1">
+              <i class="fas fa-phone-alt"><span class="textmenu">(06)--- --- --</i>
+            </span> 
+          </span>
+
+
+        <span class="facebook">
+            <span class="iconmenu5">
+              <i class="fab fa-facebook-square"></i>
+            </span> 
+          </span>
+        
+        <span class="instagram">
+            <span class="iconmenu6">
+              <i class="fab fa-instagram"></i>
+            </span> 
+          </span>
+
+          <span class="twitter">
+            <span class="iconmenu7">
+              <i class="fab fa-twitter-square"></i>
+            </span> 
+          </span>
+          
+<i class="fas fa-caret-down"></i>
+          
